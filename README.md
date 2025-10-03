@@ -22,7 +22,7 @@ This repository contains a full end-to-end implementation of a **Multi-Factor Re
    All scripts are modular and organized under `src/`:
    - `data_processing.py` → Data loading, cleaning, alignment, and sample dataset generation.
    - `modeling.py` → Static and rolling regression models, factor attribution.
-   - `visualization.py` → Pastel-themed plots for contributions and coefficients.
+   - `visualization.py` → Plots for contributions and coefficients.
    - `report.py` → Human-readable HTML report generation.
    - `run_pipeline.py` → Orchestrates the end-to-end workflow.
 
@@ -44,7 +44,6 @@ This repository contains a full end-to-end implementation of a **Multi-Factor Re
    - Stacked contributions of factors over time.
    - Rolling coefficients over time.
    - Actual vs predicted index returns.
-   - Pastel/cutesy theme for aesthetic appeal.
 
 5. **Evaluation Metrics**
    - RMSE, MAE, R² score for static regression models.
