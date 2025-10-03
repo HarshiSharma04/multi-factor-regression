@@ -54,7 +54,7 @@ This repository contains a full end-to-end implementation of a **Multi-Factor Re
 
 Click the image below to watch the full project walkthrough on Loom:
 
-[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/e09d37e7186c48c584a2b5b24c52d4c1?sid=eaa7baed-afc1-4e24-98cf-7aaa8e703582.png)](https://www.loom.com/share/e09d37e7186c48c584a2b5b24c52d4c1?sid=eaa7baed-afc1-4e24-98cf-7aaa8e703582)
+[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/e09d37e7186c48c584a2b5b24c52d4c1?sid=eaa7baed-afc1-4e24-98cf-7aaa8e703582-with-some-randomhash-00001.png)](https://www.loom.com/share/e09d37e7186c48c584a2b5b24c52d4c1?sid=eaa7baed-afc1-4e24-98cf-7aaa8e703582)
 
 *(Replace `your_video_id` in both the image and link with your actual Loom video ID)*
 
